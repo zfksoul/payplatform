@@ -7,7 +7,5 @@ public class PrimeThread extends Thread {
 		this.minPrime = minPrime;
 	}
 	
-	public void run(){
-		
-	}
+
 }
